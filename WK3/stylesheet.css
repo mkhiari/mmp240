@@ -1,4 +1,5 @@
-body{
+body
+	background: url(beach.jpeg) no-repeat center center fixed;;
 	backgrcolor: black;
 	font-size: 14;
 }
