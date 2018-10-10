@@ -1,5 +1,9 @@
 body
+<<<<<<< HEAD:WK3/stylesheet.css
+	background: url(jason-edwards-1063280-unsplash (1).jpg);  
+=======
 	background: url("images/kylo-781057-unsplash.jpg"); no-repeat center center fixed;
+>>>>>>> 0fbffc8ce48433d9da9714c626f26c6ea690a053:WK3/css/stylesheet.css
 	backgrcolor: black;
 	font-size: 14px;
 }
