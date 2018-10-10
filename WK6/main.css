@@ -1,3 +1,9 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}  
+
 body
 {
 			background-size: cover;
@@ -7,11 +13,17 @@ body
 			margin-top: 2%;
 			color: black;
 }
-        
-*{
-    margin: 0;
-    padding: 0;
-}       
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+   
+.images img{
+    width: 30%;
+    margin: 1.5%;
+}
+     
     nav{
         background-color: darkgrey;         
             text-align: left;
@@ -37,20 +49,7 @@ body
             background-color: black;
             color: white;
         } 
-    img{
-        
-        padding-top: 40px;
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-bottom: 40px;
-        margin-left: auto;
-        margin-right: auto;
-}
-
-.brick img{
     
-   
-}
 
 div {
     clear: both;
@@ -59,15 +58,21 @@ div {
 h1{background-color: darkgrey;
     margin-top: 60px;
     color:#e6b800;
-    font-size: 30;
+    font-size: 38px;
     text-align: center;
     
     padding: 30px;
 }
-h1
-
-    padding: ;
+h2{
+   background-color: darkgrey;
+    margin-top: 60px;
+    color:#e6b800;
+    font-size: 28px;
+    text-align: center;
+    
+    padding: 20px; 
 }
+
 p{
     background-color: darkgrey;
     margin-left: 25px;
@@ -78,4 +83,8 @@ p{
     padding-left: 15px;
     padding-right: 15px;
    
+}
+
+h4{
+    text-align: center;
 }
